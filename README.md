@@ -12,11 +12,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href=""></a>|
-| Network Traffic Monitoring and Attack Detection | <a href="">/a>|
-| Security Automation with Shuffle SOAR         | |
-| Incident Response Planning and Execution      | |
-| Case Management with TheHive                  | |
-| Scripting and Automation for Threat Mitigation | |
+| Network Traffic Monitoring and Attack Detection | <a href=""></a>|
+| Security Automation with Shuffle SOAR         |<a href=""></a> |
+| Incident Response Planning and Execution      |<a href=""></a> |
+| Case Management with TheHive                  |<a href=""></a> |
+| Scripting and Automation for Threat Mitigation | <a href=""></a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
