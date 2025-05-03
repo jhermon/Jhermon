@@ -1,8 +1,5 @@
 # Hello, I'm Jhermon
-<a href="https://linkedin.com"><img src="www.linkedin.com/in/jsud"/></a>
-style=for-the-badge&logo=linkedin&logoColor=white" 
- 
-[Brief Introduction - Remove this afterwards]
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm an IT professional with 4 years of experience in various tech roles, including IT Support Technician and Data Analyst. I hold a Bachelor's degree in Computer Science, a Master's in Network Security, and I'm CompTIA Security+ certified. These experiences and credentials have shaped me into a detail-oriented, proactive, and analytical problem solver .
 
