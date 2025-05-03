@@ -4,8 +4,6 @@
 I'm an IT professional with 4 years of experience in various tech roles, including IT Support Technician and Data Analyst. I hold a Bachelor's degree in Computer Science, a Master's in Network Security, and I'm CompTIA Security+ certified. These experiences and credentials have shaped me into a detail-oriented, proactive, and analytical problem solver .
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
@@ -13,12 +11,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | <a href=""></a>|
+| Network Traffic Monitoring and Attack Detection | <a href="">/a>|
+| Security Automation with Shuffle SOAR         | |
+| Incident Response Planning and Execution      | |
+| Case Management with TheHive                  | |
+| Scripting and Automation for Threat Mitigation | |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
