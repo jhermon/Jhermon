@@ -4,7 +4,7 @@
 I'm an IT professional with 4 years of experience in various tech roles, including IT Support Technician and Data Analyst. I hold a Bachelor's degree in Computer Science, a Master's in Network Security, and I'm CompTIA Security+ certified. These experiences and credentials have shaped me into a detail-oriented, proactive, and analytical problem solver .
 
 ## Objective
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+With a foundation built on Computer Science, I’ve developed a strong interest in cybersecurity and gained a solid understanding of its core principles. I’m now eager to apply my skills in a Security Operations Center (SOC) as a Tier 1 Analyst, where I can contribute to threat detection and response.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
