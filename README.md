@@ -7,7 +7,6 @@ I'm an IT professional with 4 years of experience in various tech roles, includi
 With a foundation built on Computer Science, I’ve developed a strong interest in cybersecurity and gained a solid understanding of its core principles. I’m now eager to apply my skills in a Security Operations Center (SOC) as a Tier 1 Analyst, where I can contribute to threat detection and response.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -29,7 +28,6 @@ With a foundation built on Computer Science, I’ve developed a strong interest 
 
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
