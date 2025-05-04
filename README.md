@@ -11,7 +11,7 @@ With a foundation built on Computer Science, I’ve developed a strong interest 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href=""></a>|
+| SIEM Implementation and Log Analysis          | <a href="">Local collection</a>, <a href="">remote collection</a>|
 | Network Traffic Monitoring and Attack Detection | <a href=""></a>|
 | Security Automation with Shuffle SOAR         |<a href=""></a> |
 | Incident Response Planning and Execution      |<a href=""></a> |
